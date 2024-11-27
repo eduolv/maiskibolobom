@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Mais Kibolobom
 
-## Getting Started
-
-First, run the development server:
+https://www.loom.com/share/fc6498d20f4641edbcbcf81acd1b5187?sid=d849562d-dbe2-4018-a514-ab217e81db61
 
 ```bash
 npm run dev
